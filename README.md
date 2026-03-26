@@ -1,4 +1,4 @@
-# 🛒 AI-Powered Customer Churn Intelligence System
+# 🛒 Customer Churn Intelligence System
 ### End-to-End Machine Learning | Behavioral Analytics | XGBoost | FastAPI | Streamlit + AI Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
